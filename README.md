@@ -6,4 +6,4 @@
 - List item two
 - List item three
 
-Here is a link to [Google](www.google.com)
+Here is a link to [Google](https://www.google.com)
